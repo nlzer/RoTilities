@@ -5,14 +5,11 @@
 Soon™
 
 
-
-
-
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://windows.com)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/nlzer/RoTilities/graphs/commit-activity)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://autohotkey.com)
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+![is-trash](https://user-images.githubusercontent.com/122689034/212534930-aaa60a15-5f50-4271-bd1c-aaf0d65ad8f1.svg)
 
 # Trust and Safety
 
@@ -30,8 +27,12 @@ Read the License file to learn more.
 RoTilities will have a few updates in upcoming weeks, if I don't forget about it.
 
 # Changelogs
+_15/01/2023_
+
+- Downloader finished.
+- Kill Roblox & Multiple Roblox Instances done.
 
 _14/01/2023_
 
-- Repo created
-- Initial feature (Kill roblox instance) added
+- Repo created.
+- Initial feature (Download) added.
