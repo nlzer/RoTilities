@@ -18,7 +18,7 @@ I don't use risky software but if you do find any malware in RoTilities please o
 
 # License
 
-You can use this software and the code freely, exception if you're taking the entire code from me and putting it into you're repo, I don't really care if you use pieces of code nor portions (50 lines) but grabbing the entire software and putting it elsewhere is not nice and immoral.
+You can use this software and the code freely, exception if you're taking the entire code from me and putting it into you're repo, I don't really care if you use pieces of code nor bits but grabbing the entire software and putting it elsewhere is not nice and immoral. And monetizing off of this is ripping people off.
 
 Read the License file to learn more.
 
